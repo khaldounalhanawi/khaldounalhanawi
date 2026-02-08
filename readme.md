@@ -66,4 +66,5 @@ Hands-on experience spans algorithms, data structures, concurrency primitives, n
 
 ## 📎 Connect
 
-- **LinkedIn**: [linkedin.com/in/khaldoun-alhanawi](linkedin.com/in/khaldoun-alhanawi-34603a40)
+- **Website**: [kalhanawi.dev](https://www.kalhanawi.dev)
+- **LinkedIn**: [linkedin.com/in/khaldoun-alhanawi](https://linkedin.com/in/khaldoun-alhanawi-34603a40)
