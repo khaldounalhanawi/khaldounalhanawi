@@ -8,24 +8,13 @@ Full-stack engineer with expertise in low-level systems programming, design thin
 
 ## 🛠 Technical Skillset
 
-**Languages & Core Skills**
-- 💻 **Primary**: C, C++, Bash/Shell, Python
-- ⚙️ **Systems & Tools**: Git, Make, Valgrind, AddressSanitizer, GDB, Linux, MiniLibX
+💻 **Core** — C, C++, Bash/Shell, Python, Linux
 
-**Development & Quality**
-- 🧪 **Debugging & Analysis**: Valgrind, GDB, AddressSanitizer, systematic profiling
-- 📊 **Testing Approaches**: Automated acceptance testing, test-driven development
-- 🏗️ **Architecture**: Modular design, clean code principles, separation of concerns
+🧰 **Tools** — Git, Make, GDB, Valgrind, AddressSanitizer, MiniLibX
 
-**Design & User Experience**
-- 🎨 **UI/UX**: Figma, Adobe XD, prototyping, user-centered design
-- 🌐 **Web Technologies**: HTML5, CSS3, Framer, responsive design
-- ✨ **Design Philosophy**: Bridging technical excellence with elegant user experiences
+🎨 **Design** — Figma, Adobe XD, HTML5, CSS3, Framer, responsive design
 
-**Currently Expanding Into**
-- 🚀 C++, Docker, Advanced Linux Internals
-- 🌐 Networking, Distributed Systems, Microservices
-- ⚡ Performance Optimization, System Design
+🚀 **Expanding** — Docker, Advanced Linux Internals, Networking, System Design
 
 ---
 
