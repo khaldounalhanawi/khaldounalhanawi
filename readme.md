@@ -24,7 +24,7 @@ Full-stack engineer with expertise in low-level systems programming, design thin
 |---------|-------|-----------|
 | **cub3d** | A ray-casting engine inspired by the classic Wolfenstein 3D | [cub3d](https://github.com/khaldounalhanawi/42_cub3d) |
 | **minishell** | Unix-like shell implementation (processes, pipes, redirects, signals) | [minishell](https://github.com/khaldounalhanawi/42_Minishell) |
-| **philosopher** | Intro to multithreading with thread creation and mutex synchronization | [fdf](https://github.com/khaldounalhanawi/42_philosopher) |
+| **philosopher** | Intro to multithreading with thread creation and mutex synchronization | [philosopher](https://github.com/khaldounalhanawi/42_philosopher) |
 | **fdf** | 3D wireframe renderer with custom projection and rasterization | [fdf](https://github.com/khaldounalhanawi/42_fdf) |
 | **libft** | Essential C standard library utilities | [libft](https://github.com/khaldounalhanawi/42_lib_ft) |
 
