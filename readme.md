@@ -37,7 +37,7 @@ Additional curriculum projects, exercises, and experiments available in reposito
 | Project | Focus | Repository |
 |---------|-------|-----------|
 | **Dark_Force** | A Chrome extension to enforce dark background for ease of reading | [Dark_Force](https://github.com/khaldounalhanawi/Dark_force) |
-| **Sandbox** | A function to test for "bad"/ "good" functions | [Sandbox](https://github.com/khaldounalhanawi/Sandbox/tree/main) |
+| **Sandbox** | A function to test for "bad"/ "good" functions, using signals | [Sandbox](https://github.com/khaldounalhanawi/Sandbox/tree/main) |
 
 
 ---
