@@ -32,6 +32,15 @@ Additional curriculum projects, exercises, and experiments available in reposito
 
 ---
 
+## 📚 Mini projects
+
+| Project | Focus | Repository |
+|---------|-------|-----------|
+| **Dark_Force** | A Chrome extension to enforce dark background for ease of reading | [Dark_Force](https://github.com/khaldounalhanawi/Dark_force) |
+
+Additional curriculum projects, exercises, and experiments available in repositories.
+
+---
 ## 🎯 Development Philosophy
 
 - **Thoughtful Architecture**: Modular designs with intentional separation of concerns and scalability in mind
