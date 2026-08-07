@@ -1,6 +1,6 @@
 # Khaldoun Alhanawi
 
-Full-stack engineer with expertise in low-level systems programming, design thinking, and software architecture. Passionate about building robust, scalable systems with clean code and thoughtful user experiences. Currently deepening systems knowledge through 42 Berlin, blending C mastery with modern development practices.
+Software engineer with expertise in low-level systems programming, design thinking, and software architecture. Passionate about building robust, scalable systems with clean code and thoughtful user experiences. Built a strong foundation in systems programming through the 42 Berlin curriculum, developing efficient algorithms and systems-level software. Currently deepening web development knowledge, building expertise across frontend and backend technologies.
 
 **Systems Engineer | Full-Stack Developer | Design-Focused Software Architect**
 
@@ -10,11 +10,11 @@ Full-stack engineer with expertise in low-level systems programming, design thin
 
 💻 **Core** — C, C++, Bash/Shell, Python, Linux
 
-🧰 **Tools** — Git, Make, GDB, Valgrind, AddressSanitizer, MiniLibX
+🌐 **Web** — HTML5, CSS3, JavaScript, Frontend & Backend Development
+
+🧰 **Tools** — Git, Make, Docker, GDB, Valgrind, AddressSanitizer, MiniLibX
 
 🎨 **Design** — Figma, Adobe XD, HTML5, CSS3, Framer, responsive design
-
-🚀 **Expanding** — Docker, Advanced Linux Internals, Networking, System Design
 
 ---
 
