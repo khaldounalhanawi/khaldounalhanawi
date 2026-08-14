@@ -1,6 +1,6 @@
 # Khaldoun Alhanawi
 
-Software engineer with expertise in low-level systems programming, design thinking, and software architecture. Passionate about building robust, scalable systems with clean code and thoughtful user experiences. Built a strong foundation in systems programming through the 42 Berlin curriculum, developing efficient algorithms and systems-level software. Currently deepening web development knowledge and AI integrations, building expertise across frontend and backend technologies.
+Software engineer with expertise in low-level systems programming, design thinking, and software architecture. Passionate about building robust, scalable systems with clean code and thoughtful user experiences. Built a strong foundation in systems programming through the 42 Berlin curriculum, developing efficient algorithms and systems-level software. Currently deepening web development knowledge, working with AI integrations and building expertise across frontend and backend technologies.
 
 **Systems Engineer | Full-Stack Developer | Design-Focused Software Architect**
 
