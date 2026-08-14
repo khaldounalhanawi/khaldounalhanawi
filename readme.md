@@ -23,7 +23,7 @@ Software engineer with expertise in low-level systems programming, design thinki
 | Project | Focus | Repository |
 |---------|-------|-----------|
 | **cub3d** | A ray-casting engine inspired by the classic Wolfenstein 3D | [cub3d](https://github.com/khaldounalhanawi/42_cub3d) |
-| **minishell** | Unix-like shell implementation (processes, pipes, redirects, signals) | [minishell](https://github.com/khaldounalhanawi/42_Minishell) |
+| **minishell** | Command-line shell (processes, pipes, redirects, signals) | [minishell](https://github.com/khaldounalhanawi/42_Minishell) |
 | **philosopher** | Intro to multithreading with thread creation and mutex synchronization | [Philosophers](https://github.com/khaldounalhanawi/42_philosopher) |
 | **Inception** | System administration fundamentals by virtualizing multiple **Docker** images | [Inception](https://github.com/khaldounalhanawi/Inception) |
 | **fdf** | 3D wireframe renderer with custom projection and rasterization | [fdf](https://github.com/khaldounalhanawi/42_fdf) |
